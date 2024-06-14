@@ -31,4 +31,4 @@ Alguns exemplos de trade-offs na engenharia de software:
 Essas são apenas algumas das decisões difíceis que temos que tomar na engenharia de software. Cada decisão pode afetar outras áreas, 
 então temos que pensar cuidadosamente antes de decidir.
 
-
+____________________________________________________________________________________________________________________________
