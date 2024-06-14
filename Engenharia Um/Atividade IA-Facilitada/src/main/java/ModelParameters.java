@@ -7,9 +7,11 @@ import static java.time.Duration.ofSeconds;
 public class ModelParameters {
 
     public static void main(String[] args) {
-
-        // OpenAI parameters are explained here: https://platform.openai.com/docs/api-reference/chat/create
-
+        
+//  ________________________________________________________________________________________________________________
+//     OpenAI parameters are explained here: https://platform.openai.com/docs/api-reference/chat/create
+//  ________________________________________________________________________________________________________________
+        
         ChatLanguageModel model = OpenAiChatModel.builder()
                 .apiKey("lm-studio")
                 .baseUrl("http://localhost:2000/v1")
